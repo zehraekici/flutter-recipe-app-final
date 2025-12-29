@@ -1,0 +1,16 @@
+const List<String> mealCategories = [
+  "Beef",
+  "Breakfast",
+  "Chicken",
+  "Pork",
+  "Dessert",
+  "Starter",
+  "Lamb",
+  "Pasta",
+  "Seafood",
+  "Side",
+  "Goat",
+  "Vegan",
+  "Vegetarian",
+  "Miscellaneous",
+];
