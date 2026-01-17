@@ -1,9 +1,6 @@
 # Flutter Yemek Tarifi Uygulaması
 
-Bu uygulama Flutter ile geliştirilmiş basit bir yemek tarifi uygulamasıdır.  
-Uygulama; hazır tarifleri dış bir API üzerinden görüntüleyebilir,  
-kullanıcının kendi tariflerini ekleyip silebilir  
-ve favori tarifleri **lokal veritabanında kalıcı** olarak saklar.
+Bu uygulama Flutter ile geliştirilmiş basit bir yemek tarifi uygulamasıdır. Uygulama; hazır tarifleri dış bir API üzerinden görüntüleyebilir, kullanıcının kendi tariflerini ekleyip silebilir ve favori tarifleri **lokal veritabanında kalıcı** olarak saklar.
 
 ---
 
