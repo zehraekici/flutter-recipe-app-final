@@ -60,7 +60,6 @@ http://localhost:5050/docs
 ## Backend Kurulumu
 Bu proje, geliştirme sürecinde Flask tabanlı bir backend API kullanır.
 - TheMealDB API için proxy görevi görür.
-- Kullanıcı tarifleri için in-memory veri
 - Swagger (OpenAPI) dokümantasyonu sunar
 
 ### Backend Kurulumu
